@@ -1,6 +1,6 @@
 ## Work
 
-I'm an UX/UI Designer at [Shadowbin](https://shadowb.in), building the next cutting-edge file sharing service. With our core features, we plan to make encryption a new standard within the file sharing market of the software industry. We'll take care of the heavy lifting for you with features such as end-to-end encryption between parties, synchronised sharing, self-hosting, team management, and (of course) free-yet-anonymous analytics.
+I'm an UX/UI Engineer at [Shadowbin](https://shadowb.in), building the next cutting-edge file sharing service. With our core features, we plan to make encryption a new standard within the file sharing market of the software industry. We'll take care of the heavy lifting for you with features such as end-to-end encryption between parties, synchronised sharing, self-hosting, team management, and (of course) free-yet-anonymous analytics.
 
 Let's [build the future together.](mailto:hello@shadowb.in) :)
 
