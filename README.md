@@ -17,7 +17,7 @@ Instead of providing a portfolio, here is an non-exhaustive list of projects and
 
 For those interested in knowing what my *proficient* tech stack looks like, please look here.
 
-![Tech stack](https://skillicons.dev/icons?i=python,c,cpp,rust,zig,html,css,js,ts,ruby,lua,php,vue,react,figma,docker,wasm,go,java,kotlin,elixir,perl,nodejs,r)
+![Tech stack](https://skillicons.dev/icons?i=python,c,cpp,cs,rust,zig,html,css,js,ts,ruby,lua,php,vue,react,figma,docker,wasm,go,java,kotlin,elixir,perl,nodejs,r)
 
 ## Contact
 
