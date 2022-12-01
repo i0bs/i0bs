@@ -13,6 +13,8 @@ Instead of providing a portfolio, here is an non-exhaustive list of projects and
 
 - *Founder*, [*interactions.py*](https://github.com/interactions-py) - A feature complete client library for Discord's real-time Gateway and RESTful APIs.
 - *OSS Developer*, [*EdgeDB*](https://github.com/edgedb) - A next-generation graph-relational database.
+- *Backend Engineer*, [*digicale*](https://github.com/digicale) - A 3rd party service specialising in building custom solutions.
+- *Lead Product Engineer*, [*modulus.gg*](https://github.com/modulusgg) - A social communications delivery provider for bot automation.
 - *UX/UI Designer*, [*Shadowbin*](https://github.com/shdwbin) - An encrypted, privacy-focused file sharing service.
 
 For those interested in knowing what my *proficient* tech stack looks like, please look here.
